@@ -16,6 +16,11 @@ pageEncoding="ISO-8859-1"%>
 		<h3>
 			<a href="employee">Employee List</a>
 		</h3>
+		
+		<h3>
+			<a href="employee-module/addNew">Add New Employee</a>
+		</h3>
+		
  
 	</center>
 </body>

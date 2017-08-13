@@ -18,7 +18,11 @@ pageEncoding="ISO-8859-1"%>
 		</h3>
 		
 		<h3>
-			<a href="/addNew">Add New Employee</a>
+			<a href="employee-module/addNew">Add New Employee</a>
+		</h3>
+		
+		<h3>
+			<a href="uploadform">Upload File</a>
 		</h3>
 		
  

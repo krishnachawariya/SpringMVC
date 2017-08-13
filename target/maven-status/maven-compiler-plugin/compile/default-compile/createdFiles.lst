@@ -1,4 +1,11 @@
 com\programcreek\helloworld\controller\EmployeeController.class
-com\programcreek\helloworld\service\EmployeeManager.class
+com\programcreek\helloworld\model\EmployeeVO.class
 com\programcreek\helloworld\model\Employee.class
+com\programcreek\helloworld\controller\FileUploadController.class
+com\programcreek\helloworld\service\EmployeeVOManagerImpl.class
+com\programcreek\helloworld\service\EmployeeManager.class
+com\programcreek\helloworld\service\EmployeeVOManager.class
+com\programcreek\helloworld\dao\EmployeeDAO.class
+com\programcreek\helloworld\dao\EmployeeDAOImpl.class
+com\programcreek\helloworld\controller\EmployeeVOController.class
 com\programcreek\helloworld\controller\HelloWorldController.class
